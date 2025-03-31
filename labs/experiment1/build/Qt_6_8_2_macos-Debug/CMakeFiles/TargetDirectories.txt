@@ -1,0 +1,9 @@
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/experiment1.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/edit_cache.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/rebuild_cache.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/list_install_components.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/install.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/install/local.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/install/strip.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/experiment1_autogen_timestamp_deps.dir
+/Users/artem/Documents/Other/experiment1/build/Qt_6_8_2_macos-Debug/CMakeFiles/experiment1_autogen.dir
