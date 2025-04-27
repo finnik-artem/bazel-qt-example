@@ -82,10 +82,6 @@ void Polygon::AddVertex(const QPoint& vertex) {
     vertices_.push_back(vertex);
 }
 
-// std::optional<QPoint> Polygon::IntersectRay(const Ray& ray) const {
-    
-// }
-
 std::vector<Polygon> Controller::get_polygons() const {
     return polygons_;
 }
@@ -157,7 +153,7 @@ void MainWindow::myMove(const QPoint& pos1) {
             for (size_t j = 0; j < vertices.size(); j++) {
                 QPointF vec(vertices[j].x() - pos.x(), vertices[j].y() - pos.y());
                 Ray a(pos, vec);
-                Ray a1 = a.rotate(7), a2 = a.rotate(-7);
+                Ray a1 = a.rotate(1), a2 = a.rotate(-1);
                 rays.push_back(a);
                 rays.push_back(a1);
                 rays.push_back(a2);
