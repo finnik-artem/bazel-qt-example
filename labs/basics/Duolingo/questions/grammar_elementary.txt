@@ -1,0 +1,150 @@
+I ___ a student,am,is,are,be,0,am or is
+She ___ my friend,am,is,are,be,1,is or are
+They ___ happy today,am,is,are,be,2,are or is
+We ___ in the classroom,am,is,are,be,2,are or is
+He ___ a doctor,am,is,are,be,1,is or am
+You ___ my best friend,am,is,are,be,2,are or is
+It ___ a beautiful day,am,is,are,be,1,is or are
+My name ___ Anna,am,is,are,be,1,is or am
+The cats ___ sleeping,am,is,are,be,2,are or is
+The book ___ interesting,am,is,are,be,1,is or are
+I ___ breakfast at 7 AM,eat,eats,ate,eating,0,eat or eats
+She ___ to school every day,go,goes,going,went,1,goes or go
+We ___ TV in the evening,watch,watches,watching,watched,0,watch or watches
+They ___ football on Sundays,play,plays,playing,played,0,play or plays
+He ___ his teeth every morning,brush,brushes,brushing,brushed,1,brushes or brush
+You ___ very well,sing,sings,singing,sang,0,sing or sings
+The dog ___ loudly,bark,barks,barking,barked,1,barks or bark
+My mom ___ delicious cakes,make,makes,making,made,1,makes or make
+The sun ___ in the east,rise,rises,rising,rose,1,rises or rise
+I ___ my homework every day,do,does,doing,did,0,do or does
+I ___ to the park yesterday,go,goes,went,going,2,went or go
+She ___ a new dress last week,buy,buys,bought,buying,2,bought or buy
+We ___ a movie last night,see,saw,seeing,seen,1,saw or see
+They ___ pizza for dinner,eat,ate,eating,eaten,1,ate or eat
+He ___ me a present,give,gives,gave,giving,2,gave or give
+You ___ late to class,come,came,comes,coming,1,came or come
+The baby ___ all night,cry,cries,cried,crying,2,cried or cry
+I ___ my keys at home,forget,forgets,forgot,forgetting,2,forgot or forget
+She ___ a letter to her friend,write,writes,wrote,writing,2,wrote or write
+We ___ our grandparents last weekend,visit,visits,visited,visiting,2,visited or visit
+I am ___ a book now,read,reads,reading,readed,2,reading or read
+She is ___ dinner now,cook,cooks,cooking,cooked,2,cooking or cook
+They are ___ to music,listen,listens,listening,listened,2,listening or listen
+We are ___ for the test,study,studies,studying,studied,2,studying or study
+He is ___ his car,drive,drives,driving,drove,2,driving or drive
+You are ___ very fast,run,runs,running,ran,2,running or run
+The birds are ___ in the sky,fly,flies,flying,flew,2,flying or fly
+My dad is ___ the newspaper,read,reads,reading,readed,2,reading or read
+The children are ___ in the park,play,plays,playing,played,2,playing or play
+I am ___ my homework now,do,does,doing,did,2,doing or do
+I can ___ a bike,ride,rides,riding,rode,0,ride or rides
+She can ___ very well,dance,dances,dancing,danced,0,dance or dances
+We can ___ English,speak,speaks,speaking,spoke,0,speak or speaks
+They can ___ this song,sing,sings,singing,sang,0,sing or sings
+He can ___ fast,run,runs,running,ran,0,run or runs
+You can ___ here,wait,waits,waiting,waited,0,wait or waits
+The dog can ___ tricks,do,does,doing,did,0,do or does
+My sister can ___ delicious cakes,bake,bakes,baking,baked,0,bake or bakes
+I can ___ you tomorrow,help,helps,helping,helped,0,help or helps
+We can ___ early,leave,leaves,leaving,left,0,leave or leaves
+Do you ___ coffee?,like,likes,liking,liked,0,like or likes
+Does she ___ tennis?,play,plays,playing,played,0,play or plays
+Do they ___ TV?,watch,watches,watching,watched,0,watch or watches
+Does he ___ early?,get up,gets up,getting up,got up,0,get up or gets up
+Do we ___ milk?,need,needs,needing,needed,0,need or needs
+Does it ___ a lot here?,rain,rains,raining,rained,0,rain or rains
+Do you ___ your job?,enjoy,enjoys,enjoying,enjoyed,0,enjoy or enjoys
+Does she ___ music?,love,loves,loving,loved,0,love or loves
+Do they ___ Chinese?,study,studies,studying,studied,0,study or studies
+Does he ___ a car?,have,has,having,had,0,have or has
+I don't ___ meat,eat,eats,ate,eating,0,eat or eats
+She doesn't ___ coffee,drink,drinks,drinking,drank,0,drink or drinks
+We don't ___ late,stay,stays,staying,stayed,0,stay or stays
+They don't ___ TV much,watch,watches,watching,watched,0,watch or watches
+He doesn't ___ sweets,like,likes,liking,liked,0,like or likes
+You don't ___ here,live,lives,living,lived,0,live or lives
+The cat doesn't ___ milk,drink,drinks,drinking,drank,0,drink or drinks
+My mom doesn't ___ early,work,works,working,worked,0,work or works
+I don't ___ horror movies,watch,watches,watching,watched,0,watch or watches
+We don't ___ on Sundays,work,works,working,worked,0,work or works
+This is ___ book,I,me,my,mine,2,my or mine
+That is ___ bag,you,your,yours,you're,1,your or yours
+These are ___ pencils,we,us,our,ours,2,our or ours
+Those are ___ toys,they,them,their,theirs,2,their or theirs
+Is this ___ pen?,you,your,yours,you're,1,your or yours
+Are these ___ books?,he,him,his,he's,2,his or him
+That is ___ house,she,her,hers,she's,1,her or hers
+These are ___ children,we,us,our,ours,2,our or ours
+Is that ___ dog?,they,them,their,theirs,2,their or theirs
+This isn't ___ car,I,me,my,mine,2,my or mine
+I have ___ apple,a,an,the,some,1,an or a
+She has ___ umbrella,a,an,the,some,1,an or a
+We need ___ milk,a,an,the,some,3,some or a
+They want ___ water,a,an,the,some,3,some or an
+He bought ___ new car,a,an,the,some,0,a or an
+You should drink ___ tea,a,an,the,some,3,some or the
+There is ___ cat outside,a,an,the,some,0,a or an
+I'd like ___ coffee,a,an,the,some,3,some or a
+She has ___ interesting book,a,an,the,some,1,an or a
+We saw ___ elephant at the zoo,a,an,the,some,1,an or a
+There is ___ book on the table,a,an,the,some,0,a or an
+There are ___ pens in my bag,a,an,the,some,3,some or the
+Is there ___ milk in the fridge?,a,an,the,some,3,some or a
+Are there ___ apples in the kitchen?,a,an,the,some,3,some or an
+There isn't ___ sugar in my tea,a,an,the,any,3,any or some
+There aren't ___ chairs in this room,a,an,the,any,3,any or some
+There was ___ accident yesterday,a,an,the,some,0,a or an
+There were ___ people at the party,a,an,the,many,3,many or some
+Is there ___ bank near here?,a,an,the,some,0,a or an
+Are there ___ good restaurants here?,a,an,the,any,3,any or some
+I go to school ___ bus,on,in,by,with,2,by or on
+She came ___ foot,on,in,by,with,0,on or by
+We traveled ___ train,on,in,by,with,2,by or in
+They arrived ___ car,on,in,by,with,2,by or in
+He sent the letter ___ post,on,in,by,with,2,by or with
+You can pay ___ credit card,on,in,by,with,2,by or with
+The book is ___ the table,on,in,by,with,0,on or in
+The keys are ___ my bag,on,in,by,with,1,in or on
+We'll meet ___ the cinema,on,in,by,at,3,at or in
+The party is ___ Saturday,on,in,by,at,0,on or in
+I get up ___ 7 o'clock,on,in,at,by,2,at or in
+She works ___ the morning,on,in,at,by,1,in or at
+We have class ___ Monday,on,in,at,by,0,on or in
+They arrived ___ night,on,in,at,by,1,in or at
+He was born ___ 1990,on,in,at,by,1,in or on
+You should call me ___ the afternoon,on,in,at,by,1,in or at
+We'll leave ___ an hour,on,in,at,by,1,in or at
+The shop opens ___ 9 AM,on,in,at,by,2,at or in
+I'll see you ___ Friday,on,in,at,by,0,on or in
+The concert is ___ June,on,in,at,by,1,in or on
+I'm good ___ math,on,in,at,by,2,at or in
+She's afraid ___ dogs,of,to,for,with,0,of or for
+We're interested ___ music,in,on,at,by,0,in or on
+They're proud ___ their son,of,to,for,with,0,of or for
+He's famous ___ his paintings,for,to,with,by,0,for or by
+You're very kind ___ me,for,to,with,by,1,to or for
+The book is full ___ pictures,of,with,for,by,0,of or with
+I'm tired ___ waiting,of,with,for,by,0,of or with
+We're excited ___ the trip,about,for,with,by,0,about or for
+She's married ___ a doctor,with,to,for,by,1,to or with
+I want ___ ice cream,some,any,many,much,0,some or any
+Do you have ___ brothers?,some,any,many,much,1,any or some
+There aren't ___ students here,some,any,many,much,1,any or some
+We need ___ eggs,some,any,many,much,0,some or any
+She doesn't have ___ money,some,any,many,much,1,any or some
+How ___ apples do you want?,some,any,many,much,2,many or much
+How ___ sugar do you need?,some,any,many,much,3,much or many
+There are too ___ people here,some,any,many,much,2,many or much
+I don't have ___ time,some,any,many,much,1,any or some
+We have ___ friends in London,some,any,many,much,0,some or any
+This dress is ___ than that one,cheap,cheaper,cheapest,the cheapest,1,cheaper or cheapest
+He is ___ than his brother,tall,taller,tallest,the tallest,1,taller or tallest
+This test is ___ than the last one,easy,easier,easiest,the easiest,1,easier or easiest
+My bag is ___ than yours,heavy,heavier,heaviest,the heaviest,1,heavier or heaviest
+She is ___ student in the class,good,better,best,the best,3,the best or best
+This is ___ movie I've ever seen,bad,worse,worst,the worst,3,the worst or worst
+Today is ___ than yesterday,hot,hotter,hottest,the hottest,1,hotter or hottest
+Your car is ___ than mine,expensive,more expensive,most expensive,the most expensive,1,more expensive or most expensive
+This book is ___ in the library,interesting,more interesting,most interesting,the most interesting,3,the most interesting or most interesting
+That was ___ meal I've ever had,delicious,more delicious,most delicious,the most delicious,3,the most delicious or most delicious
