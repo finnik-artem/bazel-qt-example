@@ -123,7 +123,7 @@ private:
     QTimer *exerciseTimer;
     int timeLeftSeconds;
     const int TOTAL_QUESTIONS_PER_SESSION = 10;
-    const int MAX_INCORRECT_ATTEMPTS = 3;
+    const int MAX_INCORRECT_ATTEMPTS = 5;
     const int EXERCISE_DURATION_SECONDS = 5 * 60;
     DifficultyDialog *difficultyDialog;
     QSqlDatabase appDb;

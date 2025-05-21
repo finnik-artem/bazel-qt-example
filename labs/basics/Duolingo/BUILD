@@ -2,6 +2,11 @@ load("@rules_qt//:qt.bzl", "qt_cc_binary", "qt_cc_library")
 
 package(default_visibility = ["//visibility:public"])
 
+filegroup(
+    name = "questions_files",
+    srcs = glob(["questions/**"]),
+)
+
 qt_cc_library(
     name = "main_window",
     srcs = ["mainwindow.cpp"],
@@ -9,18 +14,18 @@ qt_cc_library(
     deps = [
         "@rules_qt//:qt_core",
         "@rules_qt//:qt_gui",
-        "@rules_qt//:qt_sql",    # <<< MAKE SURE THIS IS PRESENT
+        "@rules_qt//:qt_sql",
         "@rules_qt//:qt_widgets",
     ],
+    data = [":questions_files"],
 )
 
 qt_cc_binary(
-    name = "duolingo", # Or english_tutor
+    name = "duolingo",
     srcs = ["main.cpp"],
-    data = glob(["questions/*.txt"]),
     deps = [
         ":main_window",
-        "@rules_qt//:qt_widgets", # Often covered by main_window, but doesn't hurt
+        "@rules_qt//:qt_widgets",
     ],
 )
 

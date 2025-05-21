@@ -1,150 +1,150 @@
-I ___ a student,am,is,are,be,0,am or is
-She ___ my friend,am,is,are,be,1,is or are
-They ___ happy today,am,is,are,be,2,are or is
-We ___ in the classroom,am,is,are,be,2,are or is
-He ___ a doctor,am,is,are,be,1,is or am
-You ___ my best friend,am,is,are,be,2,are or is
-It ___ a beautiful day,am,is,are,be,1,is or are
-My name ___ Anna,am,is,are,be,1,is or am
-The cats ___ sleeping,am,is,are,be,2,are or is
-The book ___ interesting,am,is,are,be,1,is or are
-I ___ breakfast at 7 AM,eat,eats,ate,eating,0,eat or eats
-She ___ to school every day,go,goes,going,went,1,goes or go
-We ___ TV in the evening,watch,watches,watching,watched,0,watch or watches
-They ___ football on Sundays,play,plays,playing,played,0,play or plays
-He ___ his teeth every morning,brush,brushes,brushing,brushed,1,brushes or brush
-You ___ very well,sing,sings,singing,sang,0,sing or sings
-The dog ___ loudly,bark,barks,barking,barked,1,barks or bark
-My mom ___ delicious cakes,make,makes,making,made,1,makes or make
-The sun ___ in the east,rise,rises,rising,rose,1,rises or rise
-I ___ my homework every day,do,does,doing,did,0,do or does
-I ___ to the park yesterday,go,goes,went,going,2,went or go
-She ___ a new dress last week,buy,buys,bought,buying,2,bought or buy
-We ___ a movie last night,see,saw,seeing,seen,1,saw or see
-They ___ pizza for dinner,eat,ate,eating,eaten,1,ate or eat
-He ___ me a present,give,gives,gave,giving,2,gave or give
-You ___ late to class,come,came,comes,coming,1,came or come
-The baby ___ all night,cry,cries,cried,crying,2,cried or cry
-I ___ my keys at home,forget,forgets,forgot,forgetting,2,forgot or forget
-She ___ a letter to her friend,write,writes,wrote,writing,2,wrote or write
-We ___ our grandparents last weekend,visit,visits,visited,visiting,2,visited or visit
-I am ___ a book now,read,reads,reading,readed,2,reading or read
-She is ___ dinner now,cook,cooks,cooking,cooked,2,cooking or cook
-They are ___ to music,listen,listens,listening,listened,2,listening or listen
-We are ___ for the test,study,studies,studying,studied,2,studying or study
-He is ___ his car,drive,drives,driving,drove,2,driving or drive
-You are ___ very fast,run,runs,running,ran,2,running or run
-The birds are ___ in the sky,fly,flies,flying,flew,2,flying or fly
-My dad is ___ the newspaper,read,reads,reading,readed,2,reading or read
-The children are ___ in the park,play,plays,playing,played,2,playing or play
-I am ___ my homework now,do,does,doing,did,2,doing or do
-I can ___ a bike,ride,rides,riding,rode,0,ride or rides
-She can ___ very well,dance,dances,dancing,danced,0,dance or dances
-We can ___ English,speak,speaks,speaking,spoke,0,speak or speaks
-They can ___ this song,sing,sings,singing,sang,0,sing or sings
-He can ___ fast,run,runs,running,ran,0,run or runs
-You can ___ here,wait,waits,waiting,waited,0,wait or waits
-The dog can ___ tricks,do,does,doing,did,0,do or does
-My sister can ___ delicious cakes,bake,bakes,baking,baked,0,bake or bakes
-I can ___ you tomorrow,help,helps,helping,helped,0,help or helps
-We can ___ early,leave,leaves,leaving,left,0,leave or leaves
-Do you ___ coffee?,like,likes,liking,liked,0,like or likes
-Does she ___ tennis?,play,plays,playing,played,0,play or plays
-Do they ___ TV?,watch,watches,watching,watched,0,watch or watches
-Does he ___ early?,get up,gets up,getting up,got up,0,get up or gets up
-Do we ___ milk?,need,needs,needing,needed,0,need or needs
-Does it ___ a lot here?,rain,rains,raining,rained,0,rain or rains
-Do you ___ your job?,enjoy,enjoys,enjoying,enjoyed,0,enjoy or enjoys
-Does she ___ music?,love,loves,loving,loved,0,love or loves
-Do they ___ Chinese?,study,studies,studying,studied,0,study or studies
-Does he ___ a car?,have,has,having,had,0,have or has
-I don't ___ meat,eat,eats,ate,eating,0,eat or eats
-She doesn't ___ coffee,drink,drinks,drinking,drank,0,drink or drinks
-We don't ___ late,stay,stays,staying,stayed,0,stay or stays
-They don't ___ TV much,watch,watches,watching,watched,0,watch or watches
-He doesn't ___ sweets,like,likes,liking,liked,0,like or likes
-You don't ___ here,live,lives,living,lived,0,live or lives
-The cat doesn't ___ milk,drink,drinks,drinking,drank,0,drink or drinks
-My mom doesn't ___ early,work,works,working,worked,0,work or works
-I don't ___ horror movies,watch,watches,watching,watched,0,watch or watches
-We don't ___ on Sundays,work,works,working,worked,0,work or works
-This is ___ book,I,me,my,mine,2,my or mine
-That is ___ bag,you,your,yours,you're,1,your or yours
-These are ___ pencils,we,us,our,ours,2,our or ours
-Those are ___ toys,they,them,their,theirs,2,their or theirs
-Is this ___ pen?,you,your,yours,you're,1,your or yours
-Are these ___ books?,he,him,his,he's,2,his or him
-That is ___ house,she,her,hers,she's,1,her or hers
-These are ___ children,we,us,our,ours,2,our or ours
-Is that ___ dog?,they,them,their,theirs,2,their or theirs
-This isn't ___ car,I,me,my,mine,2,my or mine
-I have ___ apple,a,an,the,some,1,an or a
-She has ___ umbrella,a,an,the,some,1,an or a
-We need ___ milk,a,an,the,some,3,some or a
-They want ___ water,a,an,the,some,3,some or an
-He bought ___ new car,a,an,the,some,0,a or an
-You should drink ___ tea,a,an,the,some,3,some or the
-There is ___ cat outside,a,an,the,some,0,a or an
-I'd like ___ coffee,a,an,the,some,3,some or a
-She has ___ interesting book,a,an,the,some,1,an or a
-We saw ___ elephant at the zoo,a,an,the,some,1,an or a
-There is ___ book on the table,a,an,the,some,0,a or an
-There are ___ pens in my bag,a,an,the,some,3,some or the
-Is there ___ milk in the fridge?,a,an,the,some,3,some or a
-Are there ___ apples in the kitchen?,a,an,the,some,3,some or an
-There isn't ___ sugar in my tea,a,an,the,any,3,any or some
-There aren't ___ chairs in this room,a,an,the,any,3,any or some
-There was ___ accident yesterday,a,an,the,some,0,a or an
-There were ___ people at the party,a,an,the,many,3,many or some
-Is there ___ bank near here?,a,an,the,some,0,a or an
-Are there ___ good restaurants here?,a,an,the,any,3,any or some
-I go to school ___ bus,on,in,by,with,2,by or on
-She came ___ foot,on,in,by,with,0,on or by
-We traveled ___ train,on,in,by,with,2,by or in
-They arrived ___ car,on,in,by,with,2,by or in
-He sent the letter ___ post,on,in,by,with,2,by or with
-You can pay ___ credit card,on,in,by,with,2,by or with
-The book is ___ the table,on,in,by,with,0,on or in
-The keys are ___ my bag,on,in,by,with,1,in or on
-We'll meet ___ the cinema,on,in,by,at,3,at or in
-The party is ___ Saturday,on,in,by,at,0,on or in
-I get up ___ 7 o'clock,on,in,at,by,2,at or in
-She works ___ the morning,on,in,at,by,1,in or at
-We have class ___ Monday,on,in,at,by,0,on or in
-They arrived ___ night,on,in,at,by,1,in or at
-He was born ___ 1990,on,in,at,by,1,in or on
-You should call me ___ the afternoon,on,in,at,by,1,in or at
-We'll leave ___ an hour,on,in,at,by,1,in or at
-The shop opens ___ 9 AM,on,in,at,by,2,at or in
-I'll see you ___ Friday,on,in,at,by,0,on or in
-The concert is ___ June,on,in,at,by,1,in or on
-I'm good ___ math,on,in,at,by,2,at or in
-She's afraid ___ dogs,of,to,for,with,0,of or for
-We're interested ___ music,in,on,at,by,0,in or on
-They're proud ___ their son,of,to,for,with,0,of or for
-He's famous ___ his paintings,for,to,with,by,0,for or by
-You're very kind ___ me,for,to,with,by,1,to or for
-The book is full ___ pictures,of,with,for,by,0,of or with
-I'm tired ___ waiting,of,with,for,by,0,of or with
-We're excited ___ the trip,about,for,with,by,0,about or for
-She's married ___ a doctor,with,to,for,by,1,to or with
-I want ___ ice cream,some,any,many,much,0,some or any
-Do you have ___ brothers?,some,any,many,much,1,any or some
-There aren't ___ students here,some,any,many,much,1,any or some
-We need ___ eggs,some,any,many,much,0,some or any
-She doesn't have ___ money,some,any,many,much,1,any or some
-How ___ apples do you want?,some,any,many,much,2,many or much
-How ___ sugar do you need?,some,any,many,much,3,much or many
-There are too ___ people here,some,any,many,much,2,many or much
-I don't have ___ time,some,any,many,much,1,any or some
-We have ___ friends in London,some,any,many,much,0,some or any
-This dress is ___ than that one,cheap,cheaper,cheapest,the cheapest,1,cheaper or cheapest
-He is ___ than his brother,tall,taller,tallest,the tallest,1,taller or tallest
-This test is ___ than the last one,easy,easier,easiest,the easiest,1,easier or easiest
-My bag is ___ than yours,heavy,heavier,heaviest,the heaviest,1,heavier or heaviest
-She is ___ student in the class,good,better,best,the best,3,the best or best
-This is ___ movie I've ever seen,bad,worse,worst,the worst,3,the worst or worst
-Today is ___ than yesterday,hot,hotter,hottest,the hottest,1,hotter or hottest
-Your car is ___ than mine,expensive,more expensive,most expensive,the most expensive,1,more expensive or most expensive
-This book is ___ in the library,interesting,more interesting,most interesting,the most interesting,3,the most interesting or most interesting
-That was ___ meal I've ever had,delicious,more delicious,most delicious,the most delicious,3,the most delicious or most delicious
+She ___ to the cinema yesterday.,went,go,goes,going,0,Past Simple regular or irregular
+They ___ playing football when it started to rain.,were,are,was,is,0,Past Continuous
+I ___ (not finish) my homework yet.,havent finished,didnt finish,dont finish,am not finishing,0,Present Perfect unfinished actions
+He has lived here ___ 2010.,since,for,ago,from,0,Present Perfect with since or for
+We ___ for Paris tomorrow morning.,are leaving,leave,left,will leave,0,Present Continuous future arrangements
+If I ___ you I would study harder.,were,am,was,be,0,Second Conditional
+This book is much ___ than the last one.,more interesting,interesting,most interesting,interestinger,0,Comparative adjectives
+She is the ___ student in the class.,smartest,smart,smarter,more smart,0,Superlative adjectives
+You ___ smoke in here it is forbidden.,mustnt,dont have to,shouldnt,cant,0,Modal verbs prohibition
+He ___ be tired he has been working all day.,must,can,may,might,0,Modal verbs deduction strong probability
+I ___ swim when I was five.,could,can,may,might,0,Modal verbs past ability
+They ___ to invite her to the party.,forgot,forget,forgetting,have forgotten,0,Verb patterns verb plus to-infinitive
+I enjoy ___ books in my free time.,reading,read,to read,reads,0,Verb patterns verb plus gerund
+She made me ___ the whole story.,tell,to tell,telling,told,0,Verb patterns make someone do something
+It is no use ___ about it now.,crying,cry,to cry,cried,0,Fixed phrases with gerunds
+This is the house ___ I was born.,where,which,who,when,0,Relative clauses where
+The man ___ lives next door is a doctor.,who,which,whose,whom,0,Relative clauses who
+I have lost the keys ___ you gave me.,that,who,which,whose,0,Relative clauses which or that for things
+Do you know the reason ___ he was late?,why,which,who,when,0,Relative clauses why
+The problem ___ discussed at the meeting.,was,is,were,are,0,Passive voice Past Simple
+English ___ all over the world.,is spoken,speaks,spoke,is speaking,0,Passive voice Present Simple
+My car ___ repaired at the moment.,is being,is,was,has been,0,Passive voice Present Continuous
+The window ___ by the wind last night.,was broken,broke,has broken,breaks,0,Passive voice Past Simple by agent
+She asked me ___ I was going.,where,if,that,what,0,Reported questions wh-questions
+He told me ___ he was tired.,that,if,what,to,0,Reported speech statements
+She told me ___ late.,not to be,not be,to not be,dont be,0,Reported speech commands dont be late
+I wish I ___ fly.,could,can,will,would,0,Wish plus past simple for present wishes
+If only he ___ me the truth.,had told,tells,told,would tell,0,If only plus past perfect for past regrets
+He is used to ___ up early.,getting,get,got,to get,0,be used to plus gerund
+I am looking forward ___ you soon.,to seeing,see,to see,seeing,0,look forward to plus gerund
+Despite ___ ill she went to work.,being,be,to be,was,0,Despite or In spite of plus gerund
+She is ___ a talented singer ___ a great dancer.,both and,either or,neither nor,not only but also,0,Correlative conjunctions both and
+You can ___ have tea ___ coffee.,either or,neither nor,both and,not only but also,0,Correlative conjunctions either or
+He is ___ rich ___ famous.,neither nor,either or,both and,not only but also,0,Correlative conjunctions neither nor
+___ he studied hard he failed the exam.,Although,Because,So,Despite,0,Conjunctions of contrast Although
+I will call you ___ I arrive.,as soon as,until,while,unless,0,Time conjunctions
+We waited ___ the rain stopped.,until,as soon as,while,unless,0,Time conjunctions
+She was cooking ___ I was watching TV.,while,as soon as,until,unless,0,Time conjunctions
+You will not pass ___ you study.,unless,as soon as,until,while,0,Conditional conjunctions unless
+He speaks English ___.,fluently,fluent,fluency,more fluent,0,Adverbs of manner
+She sings ___.,beautiful,beautifully,beauty,more beautiful,1,Adverbs of manner
+The train arrived ___.,lately,late,later,latest,1,Adverbs of time
+I have not seen him ___.,late,lately,later,latest,1,Adverbs of time lately
+There is not ___ sugar left.,some,any,no,much,1,Quantifiers with count or uncount nouns
+How ___ money do you have?,many,much,a lot of,some,1,Quantifiers much or many
+There are ___ apples in the basket.,many,a little,a few,much,1,Quantifiers a few or a little
+I have ___ time to help you now.,many,a little,a few,much,1,Quantifiers a few or a little
+He has ___ friends.,a little,a few,much,many,1,Quantifiers with countable nouns
+Could you give me ___ advice?,an,some,a,any,1,Uncountable nouns advice
+She bought ___ new furniture for her room.,an,some,a,many,1,Uncountable nouns furniture
+The news ___ very interesting today.,are,is,was,were,1,Nouns that are always singular news
+Politics ___ a complicated subject.,are,is,was,were,1,Nouns ending in -ics singular verb
+My trousers ___ too small for me now.,is,are,was,were,1,Nouns that are always plural trousers
+The police ___ looking for the thief.,is,are,was,were,1,Collective nouns police plus plural verb
+A number of students ___ absent yesterday.,is,were,was,are,1,A number of plus plural verb
+The number of unemployed people ___ increased.,have,has,is,are,1,The number of plus singular verb
+Neither of my parents ___ coffee.,like,likes,is liking,are liking,1,Neither of plus singular verb
+Either of these books ___ fine.,are,is,was,were,1,Either of plus singular verb
+Everyone ___ happy at the party.,were,was,is,are,1,Pronouns like everyone someone plus singular verb
+Somebody ___ at the door.,are knocking,is knocking,knock,knocks,1,Indefinite pronouns plus singular verb
+None of the students ___ the answer.,know,knows,is knowing,are knowing,1,None of plus singular or plural singular preferred
+All the information ___ correct.,are,is,was,were,1,All plus uncountable noun plus singular verb
+All of my friends ___ coming to the party.,is,are,was,were,1,All plus plural noun plus plural verb
+He ___ a doctor for ten years before he retired.,was,had been,has been,is,1,Past Perfect duration before another past event
+By the time I arrived the film ___ already ___.,has started,had started,started started,was starting,1,Past Perfect action completed before another
+She said she ___ to Paris the following week.,will go,would go,is going,goes,1,Reported speech future will to would
+If I ___ more time I ___ travelling now.,would have,had,would be,had had,1,Mixed conditional past condition present result
+I would not have been so upset if you ___ me.,told,had told,would tell,tell,1,Third Conditional
+She ___ her keys so she cannot get in.,lost,has lost,had lost,loses,1,Present Perfect past action present result
+I ___ this movie three times already.,saw,have seen,had seen,see,1,Present Perfect repeated actions up to now
+When ___ you last ___ him?,have seen,did see,had seen,do see,1,Past Simple specific past time
+He ___ for his exam all week he needs a break.,is studying,studies,has been studying,studied,1,Present Perfect Continuous duration of activity
+How long ___ you ___ English?,are learning,do learn,have been learning,did learn,1,Present Perfect Continuous duration
+It ___ for two hours now.,is raining,rains,has been raining,rained,1,Present Perfect Continuous ongoing action
+The children ___ very noisy today.,are,are being,be,is being,1,Present Continuous temporary behavior
+This coffee ___ strange.,is tasting,tastes,taste,has tasted,1,Stative verbs
+I ___ what you mean.,am understanding,understand,understood,have understood,1,Stative verbs
+She ___ a new car next month.,is buying,buys,will buy,bought,1,Present Continuous definite future plans
+The train ___ at 7 30 AM tomorrow.,is arriving,arrives,will arrive,arrived,1,Present Simple timetables or schedules
+I ___ help you with that if you like.,am going to,will,would,shall,1,Future Simple spontaneous offers
+Look at those clouds It ___ rain.,will,is,is going to,rains,2,Future be going to predictions based on evidence
+Perhaps she ___ call later.,is going to,may,will,is,2,Future with will for predictions or assumptions
+Do not worry I ___ (not tell) anyone your secret.,am not going to tell,dont tell,wont tell,havent told,2,Future Simple for promises
+By next year I ___ (graduate) from university.,will graduate,am graduating,will have graduated,graduate,2,Future Perfect
+This time next week we ___ (lie) on a beach.,will lie,lie,will be lying,are lying,2,Future Continuous
+He cannot come to the phone he ___ a shower.,has,had,is having,was having,2,Present Continuous actions happening now
+She prefers coffee ___ tea.,than,from,to,over,2,Prefer X to Y
+I would rather ___ at home tonight.,to stay,staying,stay,stayed,2,Would rather plus bare infinitive
+It is time you ___ to bed.,go,to go,went,going,2,It is time plus Past Simple
+He insisted ___ paying for the meal.,in,at,on,to,2,Prepositional phrases insist on plus gerund
+She apologized ___ being late.,to,at,for,with,2,Prepositional phrases apologize for plus gerund
+I am not very good ___ sports.,in,on,at,with,2,Prepositional phrases good at
+He is interested ___ history.,at,on,in,about,2,Prepositional phrases interested in
+This dress is similar ___ mine.,with,as,to,from,2,Prepositional phrases similar to
+She is responsible ___ the marketing department.,to,of,for,with,2,Prepositional phrases responsible for
+I am tired ___ waiting.,with,from,of,about,2,Prepositional phrases tired of
+He is keen ___ cycling.,at,in,on,with,2,Prepositional phrases keen on
+The book was ___ boring that I could not finish it.,such,too,so,very,2,So adjective that
+It was ___ a boring book that I could not finish it.,so,too,such,very,2,Such a an adjective noun that
+The coffee is ___ hot to drink.,so,such,too,enough,2,Too adjective to-infinitive
+The room is not big ___ for all of us.,so,such,enough,too,2,Adjective enough
+He did not study ___ to pass the exam.,hardly,hard,hard enough,enough hard,2,Adverb enough
+She has ___ money to buy a new car.,too much,too many,enough,a lot,2,Enough noun
+There were ___ people at the concert.,too much,a lot of,too many,enough,2,Too many countable noun
+I have ___ work to do today.,too many,enough,too much,a few,2,Too much uncountable noun
+The manager ___ is very experienced solved the problem quickly.,which,that,who,whose,2,Non-defining relative clause who for person
+My car ___ is quite old often breaks down.,who,that,which,whose,2,Non-defining relative clause which for thing
+The report ___ conclusions were surprising was published yesterday.,who,which,whose,that,2,Non-defining relative clause whose for possession
+He is believed ___ a spy during the war.,to be,being,to have been,was,2,Passive with infinitive past reference
+She is said ___ several languages fluently.,to have spoken,speaking,to speak,speaks,2,Passive with infinitive present reference
+It is important ___ on time.,be,being,to be,is,2,It be adjective to-infinitive
+I find it difficult ___ Chinese.,learn,learning,to learn,learned,2,Find it adjective to-infinitive
+___ a doctor requires years of study.,Become,To become,Becoming,Becomes,2,Gerund as subject
+My favorite hobby is ___ photos.,take,to take,taking,took,2,Gerund as complement
+He stopped ___ (smoke) cigarettes last year.,to smoke,smoke,smoking,smoked,2,Stop gerund quit an activity
+He stopped ___ (smoke) a cigarette on his way home.,smoking,smoke,to smoke,smoked,2,Stop to-infinitive stop to do something else
+I remember ___ (meet) him at a conference.,to meet,meet,meeting,met,2,Remember gerund past memory
+Do not forget ___ (buy) milk on your way home.,buying,buy,to buy,bought,2,Forget to-infinitive remember to do
+Try ___ (add) more salt if it is bland.,to add,add,added,adding,3,Try gerund experiment
+Try ___ (lift) this box it is very heavy.,lifting,lift,lifted,to lift,3,Try to-infinitive make an effort
+She was made ___ the classroom.,clean,cleaning,cleaned,to clean,3,Passive of make someone do to be made to do
+I was allowed ___ home early.,go,going,went,to go,3,Passive of let someone do often be allowed to do
+He let me ___ his car.,to borrow,borrowing,borrowed,borrow,3,Let someone do bare infinitive
+What ___ if you won the lottery?,will you do,do you do,did you do,would you do,3,Second conditional question
+If she ___ invited me I would have gone.,didnt,wouldnt have,hasnt,hadnt,3,Third conditional negative condition
+I wish I ___ so much chocolate yesterday.,didnt eat,wouldnt eat,ate not,hadnt eaten,3,Wish about past regret
+What ___ if you won the lottery?,will you do,do you do,did you do,would you do,3,Second conditional question
+If she ___ invited me I would have gone.,didnt,wouldnt have,hasnt,hadnt,3,Third conditional negative condition
+I wish I ___ so much chocolate yesterday.,didnt eat,wouldnt eat,ate not,hadnt eaten,3,Wish about past regret
+No sooner ___ he arrived than the phone rang.,did,has,was,had,3,Inversion with No sooner than
+Hardly ___ I closed my eyes when I fell asleep.,did,has,was,had,3,Inversion with Hardly when
+Not only ___ he talented but he is also very kind.,does,has,was,is,3,Inversion with Not only but also
+Seldom ___ we see such a beautiful sunset.,did,have,are,do,3,Inversion adverbs of frequency seldom rarely
+Under no circumstances ___ you leave this room.,must,will,do,should,3,Inversion with Under no circumstances
+No sooner ___ he arrived than the phone rang.,did,has,was,had,3,Inversion with No sooner than
+Hardly ___ I closed my eyes when I fell asleep.,did,has,was,had,3,Inversion with Hardly when
+Not only ___ he talented but he is also very kind.,does,has,was,is,3,Inversion with Not only but also
+Seldom ___ we see such a beautiful sunset.,did,have,are,do,3,Inversion adverbs of frequency seldom rarely
+Under no circumstances ___ you leave this room.,must,will,do,should,3,Inversion with Under no circumstances
+She is ___ intelligent to fail.,such,so,very,too,3,Too adjective negative connotation
+He did not have ___ experience for the job.,too much,so much,very,enough,3,Enough before noun
+I would appreciate it if you ___ me know.,let,will let,would let,could let,3,Polite requests appreciate it if past
+Try ___ (lift) this box it is very heavy.,lifting,lift,lifted,to lift,3,Try to-infinitive make an effort
+She was made ___ the classroom.,clean,cleaning,cleaned,to clean,3,Passive of make someone do to be made to do
+I was allowed ___ home early.,go,going,went,to go,3,Passive of let someone do often be allowed to do
+He let me ___ his car.,to borrow,borrowing,borrowed,borrow,3,Let someone do bare infinitive
+What ___ if you won the lottery?,will you do,do you do,did you do,would you do,3,Second conditional question
+If she ___ invited me I would have gone.,didnt,wouldnt have,hasnt,hadnt,3,Third conditional negative condition
+I wish I ___ so much chocolate yesterday.,didnt eat,wouldnt eat,ate not,hadnt eaten,3,Wish about past regret
+What ___ if you won the lottery?,will you do,do you do,did you do,would you do,3,Second conditional question

@@ -20,7 +20,206 @@ MainWindow::MainWindow(QWidget *parent)
       exerciseTimer(new QTimer(this)), timeLeftSeconds(0),
       difficultyDialog(nullptr)
 {
-    for(int i=0; i<4; ++i) grammarOptions[i] = nullptr;
+
+    QString styleSheet = R"(
+        QMainWindow {
+            background-color: #E8F0F9;
+        }
+        QWidget {
+            font-family: "Segoe UI", Arial, sans-serif;
+            font-size: 10pt;
+            color: #2C3E50;
+        }
+        QLabel#welcomeLabel {
+            font-size: 18pt;
+            font-weight: bold;
+            color: #3498DB;
+            qproperty-alignment: 'AlignCenter';
+            padding-bottom: 15px;
+        }
+        QLabel#difficultyLabel, QLabel#scoreLabel, QLabel#timerLabel, QLabel[text="Progress:"] {
+            font-weight: bold;
+            color: #2980B9;
+        }
+        QLabel#translationQuestionLabel, QLabel#grammarQuestionLabel {
+            font-size: 12pt;
+            color: #34495E;
+            padding: 10px;
+            background-color: #FFFFFF;
+            border: 1px solid #D0E0F0;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        QPushButton {
+            background-color: #3498DB;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            font-weight: 500;
+            min-width: 80px;
+        }
+        QPushButton:hover {
+            background-color: #2980B9;
+        }
+        QPushButton:pressed {
+            background-color: #1F618D;
+        }
+        QPushButton#startTranslationBtn, QPushButton#startGrammarBtn {
+            font-size: 11pt;
+            padding: 10px 22px;
+            background-color: #5DADE2;
+        }
+        QPushButton#startTranslationBtn:hover, QPushButton#startGrammarBtn:hover {
+            background-color: #3498DB;
+        }
+        QPushButton#submitTranslationButton, QPushButton#submitGrammarButton {
+             background-color: #27AE60;
+             margin-top: 10px;
+        }
+        QPushButton#submitTranslationButton:hover, QPushButton#submitGrammarButton:hover {
+             background-color: #229954;
+        }
+        QLineEdit, QTextEdit {
+            background-color: #FFFFFF;
+            border: 1px solid #BDC3C7;
+            padding: 6px;
+            border-radius: 4px;
+            color: #34495E;
+        }
+        QLineEdit:focus, QTextEdit:focus {
+            border: 1px solid #3498DB;
+        }
+        QProgressBar {
+            border: 1px solid #AABBC9;
+            border-radius: 5px;
+            text-align: center;
+            color: #2C3E50;
+            background-color: #FFFFFF;
+            height: 22px;
+        }
+        QProgressBar::chunk {
+            background-color: #5DADE2;
+            border-radius: 4px;
+            margin: 1px;
+        }
+        QMenuBar {
+            background-color: #D6EAF8;
+            color: #2C3E50;
+            border-bottom: 1px solid #AABBC9;
+        }
+        QMenuBar::item {
+            padding: 5px 10px;
+        }
+        QMenuBar::item:selected {
+            background-color: #A9CCE3;
+            color: #1A5276;
+        }
+        QMenu {
+            background-color: #FBFCFC;
+            border: 1px solid #AABBC9;
+            padding: 5px;
+        }
+        QMenu::item {
+            padding: 5px 20px 5px 10px;
+        }
+        QMenu::item:selected {
+            background-color: #5DADE2;
+            color: white;
+            border-radius: 3px;
+        }
+        QMenu::separator {
+            height: 1px;
+            background: #D0E0F0;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+        QRadioButton {
+            spacing: 5px;
+            padding: 3px 0px;
+        }
+        QRadioButton::indicator {
+            width: 18px;
+            height: 18px;
+        }
+        QRadioButton::indicator::unchecked {
+            border: 2px solid #AABBC9;
+            background-color: #FFFFFF;
+            border-radius: 9px;
+        }
+        QRadioButton::indicator::unchecked:hover {
+            border: 2px solid #5DADE2;
+        }
+        QRadioButton::indicator::checked {
+            border: 2px solid #3498DB;
+            background-color: #3498DB;
+            border-radius: 9px;
+        }
+        QRadioButton::indicator::checked:hover {
+            border: 2px solid #2980B9;
+            background-color: #2980B9;
+        }
+        QStackedWidget {
+            background-color: transparent;
+        }
+        QWidget#welcomePage {
+            background-color: #E8F0F9;
+        }
+        QWidget#translationExercisePage, QWidget#grammarExercisePage {
+            background-color: #FBFCFC;
+            border-radius: 8px;
+        }
+        QDialog {
+            background-color: #E8F0F9;
+            border: 1px solid #AABBC9;
+        }
+        QDialog QPushButton {
+            min-width: 70px;
+            padding: 6px 12px;
+        }
+        QMessageBox QLabel {
+            color: #2C3E50;
+        }
+        QComboBox {
+            border: 1px solid #AABBC9;
+            border-radius: 3px;
+            padding: 1px 18px 1px 3px;
+            min-width: 6em;
+            background-color: white;
+        }
+        QComboBox:editable {
+            background: white;
+        }
+        QComboBox:!editable, QComboBox::drop-down:editable {
+             background: #E8F0F9;
+        }
+        QComboBox:!editable:on, QComboBox::drop-down:editable:on {
+            background: #D6EAF8;
+        }
+        QComboBox::drop-down {
+            subcontrol-origin: padding;
+            subcontrol-position: top right;
+            width: 20px;
+            border-left-width: 1px;
+            border-left-color: #AABBC9;
+            border-left-style: solid;
+            border-top-right-radius: 3px;
+            border-bottom-right-radius: 3px;
+        }
+        QComboBox::down-arrow {
+            image: url(:/qt-project.org/styles/commonstyle/images/downarraow-16.png);
+        }
+        QComboBox QAbstractItemView {
+            border: 1px solid #AABBC9;
+            background-color: white;
+            selection-background-color: #5DADE2;
+            selection-color: white;
+        }
+    )";
+
+    this->setStyleSheet(styleSheet);
+
+    for(int i = 0; i < 4; i++) grammarOptions[i] = nullptr;
 
     QString dataDir = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
     QDir dir(dataDir);
@@ -142,22 +341,22 @@ bool MainWindow::importInitialDataIfNeeded() {
     QStringList diffNames = {"Elementary", "Intermediate", "Advanced"};
     bool overall_success = true;
 
-    QDir appDir(QCoreApplication::applicationDirPath());
     QString questionsDirRoot = QCoreApplication::applicationDirPath();
-    #ifdef Q_OS_MAC
-    #endif
-    QString questionsPathPrefix;
-    if (QDir(questionsDirRoot + "/questions").exists()) {
-        questionsPathPrefix = questionsDirRoot + "/questions/";
-    } else if (QDir(QDir::cleanPath(questionsDirRoot + "/../questions")).exists()) {
-        questionsPathPrefix = QDir::cleanPath(questionsDirRoot + "/../questions/");
-    } else if (QDir(QDir::cleanPath(questionsDirRoot + "/../../english_tutor/questions")).exists()){
-         questionsPathPrefix = QDir::cleanPath(questionsDirRoot + "/../../english_tutor/questions/");
-    } else {
-        qWarning() << "Question directory not found near " << questionsDirRoot << ". Trying local 'questions/'";
-        questionsPathPrefix = "./questions/";
+    QString questionsPathPrefix = questionsDirRoot + "/questions/";
+
+    if (!QDir(questionsPathPrefix).exists()) {
+        qWarning() << "Primary questions path not found:" << questionsPathPrefix;
+        QString cwdQuestionsPath = QDir::currentPath() + "/labs/basics/Duolingo/questions/";
+        if (QDir(cwdQuestionsPath).exists()) {
+            qWarning() << "Falling back to CWD-relative path:" << cwdQuestionsPath;
+            questionsPathPrefix = cwdQuestionsPath;
+        } else {
+            qWarning() << "Still cannot find questions directory. Using './questions/' as last resort.";
+            questionsPathPrefix = "./questions/";
+        }
     }
-     qDebug() << "Using questions directory for import: " << questionsPathPrefix;
+
+    qDebug() << "Using questions directory for import: " << questionsPathPrefix;
 
 
     for (const QString& diffName : diffNames) {

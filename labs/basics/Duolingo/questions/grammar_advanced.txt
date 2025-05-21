@@ -1,150 +1,150 @@
-I ___ a student,am,is,are,be,0,am or is
-She ___ my friend,am,is,are,be,1,is or are
-They ___ happy today,am,is,are,be,2,are or is
-We ___ in the classroom,am,is,are,be,2,are or is
-He ___ a doctor,am,is,are,be,1,is or am
-You ___ my best friend,am,is,are,be,2,are or is
-It ___ a beautiful day,am,is,are,be,1,is or are
-My name ___ Anna,am,is,are,be,1,is or am
-The cats ___ sleeping,am,is,are,be,2,are or is
-The book ___ interesting,am,is,are,be,1,is or are
-I ___ breakfast at 7 AM,eat,eats,ate,eating,0,eat or eats
-She ___ to school every day,go,goes,going,went,1,goes or go
-We ___ TV in the evening,watch,watches,watching,watched,0,watch or watches
-They ___ football on Sundays,play,plays,playing,played,0,play or plays
-He ___ his teeth every morning,brush,brushes,brushing,brushed,1,brushes or brush
-You ___ very well,sing,sings,singing,sang,0,sing or sings
-The dog ___ loudly,bark,barks,barking,barked,1,barks or bark
-My mom ___ delicious cakes,make,makes,making,made,1,makes or make
-The sun ___ in the east,rise,rises,rising,rose,1,rises or rise
-I ___ my homework every day,do,does,doing,did,0,do or does
-I ___ to the park yesterday,go,goes,went,going,2,went or go
-She ___ a new dress last week,buy,buys,bought,buying,2,bought or buy
-We ___ a movie last night,see,saw,seeing,seen,1,saw or see
-They ___ pizza for dinner,eat,ate,eating,eaten,1,ate or eat
-He ___ me a present,give,gives,gave,giving,2,gave or give
-You ___ late to class,come,came,comes,coming,1,came or come
-The baby ___ all night,cry,cries,cried,crying,2,cried or cry
-I ___ my keys at home,forget,forgets,forgot,forgetting,2,forgot or forget
-She ___ a letter to her friend,write,writes,wrote,writing,2,wrote or write
-We ___ our grandparents last weekend,visit,visits,visited,visiting,2,visited or visit
-I am ___ a book now,read,reads,reading,readed,2,reading or read
-She is ___ dinner now,cook,cooks,cooking,cooked,2,cooking or cook
-They are ___ to music,listen,listens,listening,listened,2,listening or listen
-We are ___ for the test,study,studies,studying,studied,2,studying or study
-He is ___ his car,drive,drives,driving,drove,2,driving or drive
-You are ___ very fast,run,runs,running,ran,2,running or run
-The birds are ___ in the sky,fly,flies,flying,flew,2,flying or fly
-My dad is ___ the newspaper,read,reads,reading,readed,2,reading or read
-The children are ___ in the park,play,plays,playing,played,2,playing or play
-I am ___ my homework now,do,does,doing,did,2,doing or do
-I can ___ a bike,ride,rides,riding,rode,0,ride or rides
-She can ___ very well,dance,dances,dancing,danced,0,dance or dances
-We can ___ English,speak,speaks,speaking,spoke,0,speak or speaks
-They can ___ this song,sing,sings,singing,sang,0,sing or sings
-He can ___ fast,run,runs,running,ran,0,run or runs
-You can ___ here,wait,waits,waiting,waited,0,wait or waits
-The dog can ___ tricks,do,does,doing,did,0,do or does
-My sister can ___ delicious cakes,bake,bakes,baking,baked,0,bake or bakes
-I can ___ you tomorrow,help,helps,helping,helped,0,help or helps
-We can ___ early,leave,leaves,leaving,left,0,leave or leaves
-Do you ___ coffee?,like,likes,liking,liked,0,like or likes
-Does she ___ tennis?,play,plays,playing,played,0,play or plays
-Do they ___ TV?,watch,watches,watching,watched,0,watch or watches
-Does he ___ early?,get up,gets up,getting up,got up,0,get up or gets up
-Do we ___ milk?,need,needs,needing,needed,0,need or needs
-Does it ___ a lot here?,rain,rains,raining,rained,0,rain or rains
-Do you ___ your job?,enjoy,enjoys,enjoying,enjoyed,0,enjoy or enjoys
-Does she ___ music?,love,loves,loving,loved,0,love or loves
-Do they ___ Chinese?,study,studies,studying,studied,0,study or studies
-Does he ___ a car?,have,has,having,had,0,have or has
-I don't ___ meat,eat,eats,ate,eating,0,eat or eats
-She doesn't ___ coffee,drink,drinks,drinking,drank,0,drink or drinks
-We don't ___ late,stay,stays,staying,stayed,0,stay or stays
-They don't ___ TV much,watch,watches,watching,watched,0,watch or watches
-He doesn't ___ sweets,like,likes,liking,liked,0,like or likes
-You don't ___ here,live,lives,living,lived,0,live or lives
-The cat doesn't ___ milk,drink,drinks,drinking,drank,0,drink or drinks
-My mom doesn't ___ early,work,works,working,worked,0,work or works
-I don't ___ horror movies,watch,watches,watching,watched,0,watch or watches
-We don't ___ on Sundays,work,works,working,worked,0,work or works
-This is ___ book,I,me,my,mine,2,my or mine
-That is ___ bag,you,your,yours,you're,1,your or yours
-These are ___ pencils,we,us,our,ours,2,our or ours
-Those are ___ toys,they,them,their,theirs,2,their or theirs
-Is this ___ pen?,you,your,yours,you're,1,your or yours
-Are these ___ books?,he,him,his,he's,2,his or him
-That is ___ house,she,her,hers,she's,1,her or hers
-These are ___ children,we,us,our,ours,2,our or ours
-Is that ___ dog?,they,them,their,theirs,2,their or theirs
-This isn't ___ car,I,me,my,mine,2,my or mine
-I have ___ apple,a,an,the,some,1,an or a
-She has ___ umbrella,a,an,the,some,1,an or a
-We need ___ milk,a,an,the,some,3,some or a
-They want ___ water,a,an,the,some,3,some or an
-He bought ___ new car,a,an,the,some,0,a or an
-You should drink ___ tea,a,an,the,some,3,some or the
-There is ___ cat outside,a,an,the,some,0,a or an
-I'd like ___ coffee,a,an,the,some,3,some or a
-She has ___ interesting book,a,an,the,some,1,an or a
-We saw ___ elephant at the zoo,a,an,the,some,1,an or a
-There is ___ book on the table,a,an,the,some,0,a or an
-There are ___ pens in my bag,a,an,the,some,3,some or the
-Is there ___ milk in the fridge?,a,an,the,some,3,some or a
-Are there ___ apples in the kitchen?,a,an,the,some,3,some or an
-There isn't ___ sugar in my tea,a,an,the,any,3,any or some
-There aren't ___ chairs in this room,a,an,the,any,3,any or some
-There was ___ accident yesterday,a,an,the,some,0,a or an
-There were ___ people at the party,a,an,the,many,3,many or some
-Is there ___ bank near here?,a,an,the,some,0,a or an
-Are there ___ good restaurants here?,a,an,the,any,3,any or some
-I go to school ___ bus,on,in,by,with,2,by or on
-She came ___ foot,on,in,by,with,0,on or by
-We traveled ___ train,on,in,by,with,2,by or in
-They arrived ___ car,on,in,by,with,2,by or in
-He sent the letter ___ post,on,in,by,with,2,by or with
-You can pay ___ credit card,on,in,by,with,2,by or with
-The book is ___ the table,on,in,by,with,0,on or in
-The keys are ___ my bag,on,in,by,with,1,in or on
-We'll meet ___ the cinema,on,in,by,at,3,at or in
-The party is ___ Saturday,on,in,by,at,0,on or in
-I get up ___ 7 o'clock,on,in,at,by,2,at or in
-She works ___ the morning,on,in,at,by,1,in or at
-We have class ___ Monday,on,in,at,by,0,on or in
-They arrived ___ night,on,in,at,by,1,in or at
-He was born ___ 1990,on,in,at,by,1,in or on
-You should call me ___ the afternoon,on,in,at,by,1,in or at
-We'll leave ___ an hour,on,in,at,by,1,in or at
-The shop opens ___ 9 AM,on,in,at,by,2,at or in
-I'll see you ___ Friday,on,in,at,by,0,on or in
-The concert is ___ June,on,in,at,by,1,in or on
-I'm good ___ math,on,in,at,by,2,at or in
-She's afraid ___ dogs,of,to,for,with,0,of or for
-We're interested ___ music,in,on,at,by,0,in or on
-They're proud ___ their son,of,to,for,with,0,of or for
-He's famous ___ his paintings,for,to,with,by,0,for or by
-You're very kind ___ me,for,to,with,by,1,to or for
-The book is full ___ pictures,of,with,for,by,0,of or with
-I'm tired ___ waiting,of,with,for,by,0,of or with
-We're excited ___ the trip,about,for,with,by,0,about or for
-She's married ___ a doctor,with,to,for,by,1,to or with
-I want ___ ice cream,some,any,many,much,0,some or any
-Do you have ___ brothers?,some,any,many,much,1,any or some
-There aren't ___ students here,some,any,many,much,1,any or some
-We need ___ eggs,some,any,many,much,0,some or any
-She doesn't have ___ money,some,any,many,much,1,any or some
-How ___ apples do you want?,some,any,many,much,2,many or much
-How ___ sugar do you need?,some,any,many,much,3,much or many
-There are too ___ people here,some,any,many,much,2,many or much
-I don't have ___ time,some,any,many,much,1,any or some
-We have ___ friends in London,some,any,many,much,0,some or any
-This dress is ___ than that one,cheap,cheaper,cheapest,the cheapest,1,cheaper or cheapest
-He is ___ than his brother,tall,taller,tallest,the tallest,1,taller or tallest
-This test is ___ than the last one,easy,easier,easiest,the easiest,1,easier or easiest
-My bag is ___ than yours,heavy,heavier,heaviest,the heaviest,1,heavier or heaviest
-She is ___ student in the class,good,better,best,the best,3,the best or best
-This is ___ movie I've ever seen,bad,worse,worst,the worst,3,the worst or worst
-Today is ___ than yesterday,hot,hotter,hottest,the hottest,1,hotter or hottest
-Your car is ___ than mine,expensive,more expensive,most expensive,the most expensive,1,more expensive or most expensive
-This book is ___ in the library,interesting,more interesting,most interesting,the most interesting,3,the most interesting or most interesting
-That was ___ meal I've ever had,delicious,more delicious,most delicious,the most delicious,3,the most delicious or most delicious
+___ I known you were coming I would have baked a cake.,Were,Had,Should,If,1,Inverted conditional Type 3
+___ you to change your mind please let us know.,If,Should,Were,Had,1,Inverted conditional Type 1 formal
+___ it not been for his help we would have failed.,Were,Had,If,Should,1,Inverted conditional Type 3 negative
+Not until he apologized ___ she speak to him again.,has,did,would,had,1,Inversion after Not until
+Only after a long discussion ___ they reach an agreement.,would,did,have,had,1,Inversion after Only after
+Little ___ he realize the danger he was in.,had,did,has,does,1,Inversion with Little negative adverb
+On no account ___ this door be left unlocked.,will,should,must,can,1,Inversion with On no account
+So pervasive ___ the problem that new laws were introduced.,is,was,did,has,1,Inversion So adjective that
+Such ___ the force of the explosion that windows shattered.,has,was,is,did,1,Inversion Such be noun that
+The project is still in its ___ stages.,initial,nascent,early,beginning,1,Nascent stages
+It is imperative that he ___ informed immediately.,is,be,has been,was,1,Subjunctive mood imperative that be
+The doctor recommended that she ___ more rest.,got,get,should getting,gets,1,Subjunctive mood recommend that get
+I suggest that the meeting ___ postponed.,was,be,is,should to be,1,Subjunctive mood suggest that be
+It is vital that all members ___ the rules.,to follow,follow,are following,follows,1,Subjunctive mood vital that follow
+Lest he ___ misunderstood he spoke very clearly.,was,be,is,should be,1,Lest subjunctive or should
+He works hard lest he ___ fail the exam.,might,should,would,could,1,Lest should to avoid negative outcome
+Try as he ___ he could not open the jar.,could,might,can,may,1,Concessive clause Try as one might
+Difficult though it ___ they persevered.,be,was,is,were,1,Concessive clause Adjective though subject verb
+___ the weather the picnic was a success.,However,Despite,Although,In spite,1,Despite noun phrase
+The project was completed ___ with some delays.,however,albeit,despite,although,1,Albeit formal although
+He is a good leader ___ a bit inexperienced.,however,albeit,despite,although,1,Albeit with noun phrase or adjective
+What ___ earth are you doing here?,at,on,in,for,1,Emphasis with on earth
+I cannot ___ make out what he is saying.,fairly,quite,rather,utterly,1,Quite make out not completely understand
+It was ___ a ridiculous excuse I did not believe a word.,fairly,utterly,rather,quite,1,Utterly strong adjective
+The silence in the room was ___.,piercing,deafening,loud,ear-splitting,1,Figurative language deafening silence
+He has an ___ for detail.,ear,eye,nose,mind,1,Idiom have an eye for detail
+She has always been a bit of a dark ___.,cat,horse,dog,sheep,1,Idiom dark horse
+It is raining cats and ___ out there!,birds,dogs,mice,fish,1,Idiom raining cats and dogs
+Do not beat about the ___ just tell me what happened.,plant,bush,tree,grass,1,Idiom beat about the bush
+He finally decided to bite the ___ and ask for a raise.,biscuit,bullet,apple,cherry,1,Idiom bite the bullet
+That idea is a bit long in the ___.,leg,tooth,arm,tail,1,Idiom long in the tooth old-fashioned
+I am afraid your plan will not cut the ___.,bread,mustard,cheese,butter,1,Idiom cut the mustard be good enough
+He passed the exam by the skin of his ___.,chin,teeth,nose,lips,1,Idiom by the skin of ones teeth
+She has got a chip on her ___ about her previous job.,back,shoulder,arm,head,1,Idiom have a chip on ones shoulder
+Let us call it a ___ we are both tired.,week,day,night,month,1,Idiom call it a day
+He is always trying to pull the wool over my ___.,head,eyes,ears,face,1,Idiom pull the wool over someones eyes
+I am on cloud ___ after hearing the good news.,ten,nine,seven,eight,1,Idiom on cloud nine
+Do not count your chickens before they ___.,fly,hatch,lay,sing,1,Idiom do not count your chickens
+Every cloud has a silver ___.,rim,lining,edge,border,1,Idiom every cloud has a silver lining
+It is a blessing in ___ that we missed the train.,hiding,disguise,secret,cover,1,Idiom a blessing in disguise
+He is a jack of all trades master of ___.,none,some,one,all,0,Idiom jack of all trades master of none
+The new manager is trying to get ___ with the staff.,along,up,in,on,0,Phrasal verb get along with
+I need to cut ___ on sugary drinks.,down,out,off,up,0,Phrasal verb cut down on
+The meeting was called ___ due to the storm.,off,out,down,up,0,Phrasal verb call off
+She takes ___ her mother they look very similar.,after,up,off,in,0,Phrasal verb take after
+He made ___ a story about being sick.,up,out,off,down,0,Phrasal verb make up invent
+We need to look ___ the new proposals carefully.,into,for,after,up,0,Phrasal verb look into investigate
+I cannot put ___ with his rudeness any longer.,up,out,off,down,0,Phrasal verb put up with tolerate
+The company decided to bring ___ a new product line.,out,up,off,down,0,Phrasal verb bring out launch
+He always stands ___ for what he believes in.,up,out,off,down,0,Phrasal verb stand up for
+She came ___ a brilliant idea during the meeting.,up with,out with,in with,down with,0,Phrasal verb come up with
+I ran ___ an old friend at the supermarket yesterday.,into,over,across,onto,0,Phrasal verb run into or across
+They had to do ___ with a lot of old equipment.,away,out,off,up,0,Phrasal verb do away with get rid of
+The negotiations broke ___ without an agreement.,down,out,off,up,0,Phrasal verb break down fail negotiations
+The car broke ___ on the motorway.,down,out,off,up,0,Phrasal verb break down stop working vehicle
+A fire broke ___ in the warehouse last night.,out,up,off,down,0,Phrasal verb break out start suddenly
+She is trying to give ___ smoking.,up,out,off,down,0,Phrasal verb give up stop habit
+I am counting ___ you to help me with this project.,on,at,with,in,0,Phrasal verb count on rely on
+Could you fill ___ this application form please?,in,out,up,on,0,Phrasal verb fill in or out a form
+The government plans to crack ___ on tax evasion.,down,out,off,up,0,Phrasal verb crack down on
+He tends to show ___ his new gadgets.,off,up,out,down,0,Phrasal verb show off boast
+I need to brush ___ on my French before my trip to Paris.,up,out,off,down,0,Phrasal verb brush up on improve knowledge
+The noise from the party really put me ___ my studies.,off,up,out,down,0,Phrasal verb put someone off
+She set ___ her own business last year.,up,out,off,down,0,Phrasal verb set up a business
+He was brought ___ by his grandparents.,up,out,off,down,0,Phrasal verb bring up raise child
+The issue was brought ___ at the last meeting.,up,out,off,down,0,Phrasal verb bring up mention topic
+I cannot figure ___ how to solve this puzzle.,out,up,off,down,0,Phrasal verb figure out understand solve
+The company is looking to take ___ more staff.,on,at,with,in,0,Phrasal verb take on employ
+She eventually talked him ___ her plan.,into,around,over,onto,0,Phrasal verb talk someone into something
+He tried to talk her ___ of resigning but she would not listen.,out,around,over,into,0,Phrasal verb talk someone out of something
+The police are ___ the lookout for the suspect.,on,at,with,in,0,Prepositional phrase on the lookout for
+This decision is ___ keeping with our company policy.,in,at,with,on,0,Prepositional phrase in keeping with
+His actions were ___ odds with his words.,at,in,with,on,0,Prepositional phrase at odds with
+She is ___ all accounts a very reliable employee.,by,in,from,on,0,Fixed phrase by all accounts
+___ retrospect I should have listened to your advice.,In,By,From,On,0,Fixed phrase in retrospect
+He achieved his goals ___ dint of hard work.,by,in,from,on,0,Fixed phrase by dint of
+The matter is currently ___ consideration.,under,in,by,on,0,Fixed phrase under consideration
+Her remarks were completely ___ the mark.,off,beside,near,on,0,Idiom off the mark inaccurate
+He hit the nail ___ the head with his analysis.,on,in,at,off,0,Idiom hit the nail on the head
+I am ___ two minds about whether to accept the offer.,in,of,at,on,0,Idiom be in two minds
+She has got too much ___ her plate at the moment.,at,with,on,in,2,Idiom have too much on ones plate
+This is just the tip of the ___.,hill,glacier,iceberg,mountain,2,Idiom tip of the iceberg
+We are all in the same ___ with this problem.,car,plane,boat,ship,2,Idiom in the same boat
+He is a bit wet behind the ___.,nose,hair,ears,eyes,2,Idiom wet behind the ears inexperienced
+Do not jump to ___.,answers,decisions,conclusions,results,2,Idiom jump to conclusions
+It is not rocket ___.,physics,maths,science,engineering,2,Idiom it is not rocket science
+He threw ___ in the towel after several failed attempts.,up,out,in,down,2,Idiom throw in the towel give up
+She always goes the extra ___ to help her students.,foot,inch,mile,yard,2,Idiom go the extra mile
+Let sleeping dogs ___.,rest,wake,lie,sleep,2,Idiom let sleeping dogs lie
+A ___ in the ocean but every little helps.,splash,wave,drop,drip,2,Idiom a drop in the ocean
+It cost an arm and a ___.,hand,finger,leg,foot,2,Idiom cost an arm and a leg
+He is trying to make ___ for his past mistakes.,out,down,up,off,2,Phrasal verb make up for compensate
+The new evidence has cast ___ on his guilt.,light,blame,doubt,shadow,2,Collocation cast doubt on
+The government is ___ pressure to act.,in,with,under,on,2,Collocation under pressure
+This issue is of paramount ___.,importantly,more important,importance,important,2,Collocation of paramount importance
+His arguments ___ little resemblance to the facts.,show,take,bear,carry,2,Collocation bear little resemblance
+She has a ___ command of the English language.,high,great,strong,powerful,2,Collocation strong or good command
+The plan ___ its inception was flawed.,at,in,from,since,2,Formal phrase from its inception
+The committee is comprised ___ experts from various fields.,by,in,of,with,2,Comprised of common usage
+He is ___ to making mistakes when he is tired.,apt,inclined,prone,likely,2,Prone to verb-ing or noun
+The economic forecast is ___ say the least unsettling.,at,in,to,for,2,Fixed phrase to say the least
+Far ___ it from me to criticize but I think you are wrong.,was,were,be,is,2,Formal phrase Far be it from me
+It goes without ___ that honesty is the best policy.,mentioning,speaking,saying,telling,2,Fixed phrase It goes without saying
+The artist work ___ testament to her dedication.,shows,provides,bears,gives,2,Bear testament to
+His contribution was ___ to the project success.,vital,fundamental,integral,essential,2,Integral to
+The two companies decided to ___ forces.,merge,unite,join,combine,2,Join forces
+The evidence ___ to a different conclusion.,indicates,suggests,points,shows,2,Points to suggests
+The debate ___ on the issue of funding.,revolved,depended,centered,focused,2,Centered or focused or revolved on
+His explanation did not quite ___ true.,feel,seem,ring,sound,2,Ring true sound convincing
+The old traditions are gradually ___ way to new ideas.,taking,finding,giving,making,2,Give way to
+It is incumbent ___ the government to address this issue.,to,for,upon,on,2,Incumbent upon formal duty
+His behavior was ___ contempt.,below,off,beneath,under,2,Beneath contempt
+The results were ___ and large very positive.,in,at,by,on,2,By and large
+He was exonerated ___ all blame.,with,by,from,of,2,Exonerate from
+She ___ great pride in her children achievements.,feels,gets,takes,has,2,Takes pride in
+The rules are subject ___ change without notice.,with,for,to,of,2,Subject to change
+His alibi simply does not add ___.,on,out,up,in,2,Phrasal verb add up make sense
+The new policy will come into ___ next month.,action,play,force,effect,2,Come into force or effect
+We need to iron ___ a few details before the launch.,on,up,out,in,2,Phrasal verb iron out resolve small problems
+He was ___ the impression that the meeting was cancelled.,in,with,under,on,2,Under the impression
+She has a knack ___ learning languages.,at,in,of,for,3,Have a knack for
+The plan fell ___ at the last minute.,down,off,apart,through,3,Phrasal verb fall through fail to happen
+His speech was ___ with witty remarks.,filled,dotted,scattered,interspersed,3,Interspersed with
+The decision was made ___ with their legal advice.,in line,on par,according,in accordance,3,In accordance with
+The concert was a ___ success.,strong,big,loud,resounding,3,Resounding success
+He was oblivious ___ the danger he was in.,about,for,of,to,3,Oblivious to
+The antique vase is said to ___ from the 18th century.,come,start,originate,date,3,Date from
+The new law is ___ to reduce crime rates.,aimed,meant,intended,designed,3,Designed or intended or meant to
+Her talent is ___ question she is brilliant.,above,out of,without,beyond,3,Beyond question
+He has an ___ for spotting business opportunities.,inclination,aptitude,ability,instinct,3,Instinct for
+The team morale is at an all-time ___.,bottom,bad,down,low,3,All-time low
+The two statements are mutually ___.,excepting,excluded,excluding,exclusive,3,Mutually exclusive
+She was ___ by the beauty of the landscape.,taken up,taken over,taken in,taken aback,3,Taken aback surprised shocked
+His apology was ___ and insincere.,shallow,vacant,empty,hollow,3,Hollow apology
+The evidence is at best ___.,direct,irrefutable,conclusive,circumstantial,3,Circumstantial evidence
+The witness testimony was ___ with inconsistencies.,full,fraught,filled,riddled,3,Riddled with
+The problem ___ from a lack of communication.,starts,begins,originates,stems,3,Stems from
+He is ___ with a difficult decision.,presented,dealing,confronted,faced,3,Faced with or Confronted with
+The company is teetering ___ the brink of bankruptcy.,in,to,at,on,3,Teetering on the brink
+The new discovery ___ new light on the ancient civilization.,throws,puts,casts,sheds,3,Sheds or casts or throws light on
+His actions were tantamount ___ treason.,as,for,with,to,3,Tantamount to
+The agreement is ___ on several conditions being met.,reliant,subject,dependent,contingent,3,Contingent on
+She was ___ in her refusal to compromise.,persistent,resolute,stubborn,adamant,3,Adamant
+His speech was a ___ of half-truths and misinformation.,fabric,network,web,tissue,3,A tissue or fabric of lies
+The politician tried to ___ the issue by changing the subject.,avoid,evade,divert,deflect,3,Deflect an issue
+The two countries have a long-standing ___ dispute.,border,area,land,territorial,3,Territorial dispute
+The evidence was deemed ___ in court.,invalid,irrelevant,unacceptable,inadmissible,3,Inadmissible evidence
+His remarks were considered ___ and offensive.,provocative,aggressive,incendiary,inflammatory,3,Inflammatory remarks
+The ___ of the problem lies in a lack of funding.,heart,root,core,crux,3,The crux of the problem
+The new policy has ___ widespread criticism.,caused,produced,created,engendered,3,Engendered criticism formal
